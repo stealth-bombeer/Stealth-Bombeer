@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Goudani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealth-bomber&label=Profile%20views&color=0e75b6&style=flat" alt="stealth-bomber" /> </p>
-<img aign="right" alt="gif" width="350" src="https://www.google.com/search?q=gif+image+for+programmers&tbm=isch&ved=2ahUKEwj5y6jFjb37AhV_KbcAHTUoADMQ2-cCegQIABAA&oq=gif+image+for+programmers&gs_lcp=CgNpbWcQAzoFCAAQgARQpQxYj0RgxkZoA3AAeACAAbsBiAHlD5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=5kt6Y_nAL__S3LUPtdCAmAM&bih=696&biw=1536#imgrc=ky-iVL4X7DNiXM">
-
+<img aign="right" alt="gif" width="350" src="https://i.gifer.com/5eKX.gif">
 - 🔭 I’m currently working on **Learning-In**
 
 - 🌱 I’m currently learning **FULL-STACK Web Tools**
@@ -12,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal goudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal goudani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunalgoudani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal goudani" height="30" width="40" /></a>
 <a href="https://instagram.com/_k_u_n_a_l_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_k_u_n_a_l_1" height="30" width="40" /></a>
 </p>
 
