@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Goudani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealth-bombeer&label=Profile%20views&color=0e75b6&style=flat" alt="stealth-bombeer" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1a/1a1925b1de116058e74cecebbce92eb6_w200.gif">
 
 - 🔭 I’m currently working on **Learning-In**
 
