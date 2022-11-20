@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Goudani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealth-bomber&label=Profile%20views&color=0e75b6&style=flat" alt="stealth-bomber" /> </p>
-<iframe src="https://gifer.com/embed/5eKX" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/5eKX" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
+<img aign="right" alt="gif" width="350" src="https://www.google.com/search?q=gif+image+for+programmers&tbm=isch&ved=2ahUKEwj5y6jFjb37AhV_KbcAHTUoADMQ2-cCegQIABAA&oq=gif+image+for+programmers&gs_lcp=CgNpbWcQAzoFCAAQgARQpQxYj0RgxkZoA3AAeACAAbsBiAHlD5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=5kt6Y_nAL__S3LUPtdCAmAM&bih=696&biw=1536#imgrc=ky-iVL4X7DNiXM">
 
 - 🔭 I’m currently working on **Learning-In**
 
