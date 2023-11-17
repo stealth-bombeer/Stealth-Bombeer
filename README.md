@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i2.wp.com/i.giphy.com/media/QHE5gWI0QjqF2/giphy-downsized.gif?w=770&ssl=1">
 
-- 🔭 I’m currently working on *Learning-In*
+- 🔭 I’m currently working on *FreelanceNet*
 
-- 🌱 I’m currently learning *FULL-STACK Web Tools*
+- 🌱 I’m currently learning *Blockchain Tools*
 
 - 📫 How to reach me *goudanikunal3@gmail.com*
 
